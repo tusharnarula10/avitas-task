@@ -22,8 +22,6 @@ class Header extends React.Component {
         this.setState({ anchorEl: false });
     };
 
-    //    open = Boolean(this.state.anchorEl);
-
     render() {
         return (
             <div>
